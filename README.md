@@ -1,2 +1,5 @@
 # hello-world
-Start up repository
+
+Hello Fellas!!
+
+This is an edited version of readme.md file
